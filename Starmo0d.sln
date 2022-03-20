@@ -6,6 +6,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{57CCCAA7-D190-4795-8167-5FF9F3EEB53B}"
 	ProjectSection(SolutionItems) = preProject
 		Shared\common.targets = Shared\common.targets
+		Shared\git-submodule-checkout.bat = Shared\git-submodule-checkout.bat
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_root", "_root", "{2D8E6C28-BD29-4A44-8B59-A463ED717032}"
