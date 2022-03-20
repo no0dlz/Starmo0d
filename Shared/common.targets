@@ -8,7 +8,7 @@
     <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
     <EnableNETAnalyzers>true</EnableNETAnalyzers>
 
-    <ModFolderName>Starmo0d.$(MSBuildProjectName)</ModFolderName>
+    <ModFolderName>$(MSBuildProjectName)</ModFolderName>
   </PropertyGroup>
 
   <!--import mod build package-->
