@@ -22,4 +22,10 @@
   <PropertyGroup>
     <ModZipPath>$(SolutionDir)\_releases</ModZipPath>
   </PropertyGroup>
+
+  <!--custom game path-->
+	<PropertyGroup>
+		<GamePath>F:\Spiele\Stardew Valley\Content</GamePath>
+	</PropertyGroup>
+
 </Project>
