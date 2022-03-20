@@ -29,6 +29,7 @@ Mainly used for sharing objects between my mod repositories.
        cd $(SolutionDir)Starmo0d\
        git remote show origin
        git checkout master
+       git pull
        goto :EOF
    )
    
